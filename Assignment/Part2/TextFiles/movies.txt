@@ -1,0 +1,9 @@
+Name: Movie 1
+Rating: 7.500000
+
+Name: Movie 2
+Rating: 8.200000
+
+Name: Movie 3
+Rating: 6.900000
+

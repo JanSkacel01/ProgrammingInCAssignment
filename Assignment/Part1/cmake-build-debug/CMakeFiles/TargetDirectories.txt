@@ -1,0 +1,3 @@
+/Users/jenik/Documents/Assignment/Part1/cmake-build-debug/CMakeFiles/Part1.dir
+/Users/jenik/Documents/Assignment/Part1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jenik/Documents/Assignment/Part1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
